@@ -1,1 +1,2 @@
-masukan private key
+privatekey1
+privatekey2
