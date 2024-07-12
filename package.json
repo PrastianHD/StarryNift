@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "ethers": "^6.13.1",
+    "figlet": "^1.7.0",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "starrynift",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
